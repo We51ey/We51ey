@@ -8,7 +8,7 @@
 </div>
   <p align="center">
   <em>
-    This is ME, a 2nd year undergraduate from <a href="http://www.esigelec.fr/fr/"> <b>ESIGELEC</b>. <br>
+    This is ME, a 2nd year undergraduate from <a href="http://www.esigelec.fr/fr/"> <b>ESIGELEC</b></a>. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
