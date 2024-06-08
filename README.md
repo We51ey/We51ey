@@ -1,10 +1,7 @@
 
-
+### _Hi there 👋, I'm We51ey._
 <!-- dynamic typing effect 动态打字效果 -->
 
-<div align="center">
-### _Hi there 👋, I'm We51ey._
-</div>
   <p align="center">
   <em>
     This is ME, a 2nd year undergraduate from <a href="http://www.esigelec.fr/fr/"> <b>ESIGELEC</b></a>. <br>
