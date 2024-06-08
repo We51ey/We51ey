@@ -1,9 +1,5 @@
 <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);@We51ey&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+
 <div align="center">
   <a href="https://dev.to/lostgirljourney">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
@@ -21,10 +17,12 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
   
+  <div align="center">
 
+  
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
+</div>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
   </div>
