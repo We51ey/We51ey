@@ -8,6 +8,7 @@
   <a href="https://dev.to/lostgirljourney">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
 </a>
+</div>
   <p align="center">
   <em>
     This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
