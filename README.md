@@ -37,6 +37,7 @@
 
 
 <div align="center">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div>
   <a href="https://linkedin.com/in/we51ey">
     <img align="left" alt="We51ey | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -48,6 +49,8 @@
     <img align="left" alt="We51ey | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
     </div>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="we51ey" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/we51ey?trk=profile-badge">Lai Wei</a></div>
+              
 </div>
 
 
